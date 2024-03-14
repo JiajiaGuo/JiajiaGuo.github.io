@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiajia Guo's personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
