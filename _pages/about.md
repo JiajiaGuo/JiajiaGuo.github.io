@@ -22,7 +22,7 @@ Should you have any inquiries, please don't hesitate to send an email to [jiajia
 
 # **News**  (Since 2024)
 
-My wife, Yun Hu, has successfully defended her doctoral thesis. Special thanks to Professor Zhuohang Li for his invaluable guidance. I sincerely wish Yun the best and salute Yun for her persistent efforts. (2024-03-06)
+My wife, Yun Hu, has successfully defended her doctoral thesis. I sincerely wish Yun the best. (2024-03-06)
 
 
 Our two papers: “Secure and Efficient Data Sharing for Indoor Positioning with Federated Learning in Mobile Blockchain Networks” and “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results”, have been accepted by [IEEE VTC2024-spring](https://events.vtsociety.org/vtc2024-spring/). See you in Singapore in June. (2024-03-05)
