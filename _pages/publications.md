@@ -27,8 +27,4 @@ author_profile: true
 
 [2] [J. Guo, C.-K. Wen, M. Chen, and S. Jin, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
