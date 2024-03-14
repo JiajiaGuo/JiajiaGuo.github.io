@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jiajia Guo"
 title_separator          : "-"
-name                     : &name "Jiajia Guo (郭佳佳)"
+name                     : &name "Jiajia Guo"
 description              : &description "Ph. D. in Information and Communication Engineering"
 url                      : https://JiajiaGuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "jia.png"
   name             : "Jiajia Guo"
   pronouns         : # example: "she/her"  
-  bio              : "AI for CSI feedback"
+  bio              : "Be as cautious in ending as in beginning"
   location         : "Nanjing & Macau"
   employer         : "University of Macau"
   uri              : # URL
