@@ -20,7 +20,9 @@ I received the B.S. degree from the Nanjing University of Science and Technology
 **Selected publications**
 
 
-[1]  [J. Guo, C.-K. Wen, S. Jin, and G. Y. Li, “Overview of Deep LearningBased CSI Feedback in Massive MIMO Systems,” IEEE Trans. Commun., vol. 70, no. 12, pp. 8017–8045, Dec. 2022.](https://ieeexplore.ieee.org/abstract/document/9931713)
+[1]  [J. Guo, C.-K. Wen, S. Jin, and G. Y. Li, “Overview of Deep LearningBased CSI Feedback in Massive MIMO Systems,” IEEE Trans. Commun., vol. 70, no. 12, pp. 8017–8045, Dec. 2022.](https://ieeexplore.ieee.org/document/9931713) (This paper gives a comprehensive overview of state-of-the-art research on deep learning-based CSI feedback.)
+
+[2]  [J. Guo, C.-K. Wen, S. Jin, and G. Y. Li, “Overview of Deep LearningBased CSI Feedback in Massive MIMO Systems,” IEEE Trans. Commun., vol. 70, no. 12, pp. 8017–8045, Dec. 2022.](https://ieeexplore.ieee.org/document/9931713) (This paper gives a comprehensive overview of state-of-the-art research on deep learning-based CSI feedback.)
 
 
 
