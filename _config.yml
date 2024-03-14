@@ -21,7 +21,7 @@ repository               : "JiajiaGuo/JiajiaGuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jia.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "AI for CSI feedback"
