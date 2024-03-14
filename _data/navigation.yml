@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Selected Publications"
-    url: /SelectedPublications/
 
   - title: "Talks"
     url: /talks/    
