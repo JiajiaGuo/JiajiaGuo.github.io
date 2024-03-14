@@ -17,7 +17,11 @@ I received the B.S. degree from the Nanjing University of Science and Technology
 
 # **News**
 
-Our paper [Lightweight Neural Network with Knowledge Distillation for CSI Feedback](https://arxiv.org/abs/2210.17113) has been accepted by **IEEE Transactions on Communications**. Hearty congratulations to Yiming Cui on the publication of his 4th journal paper! It's a commendable milestone. (2024-2-23)
+Our two papers: “Secure and Efficient Data Sharing for Indoor Positioning with Federated Learning in Mobile Blockchain Networks” and “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results”, have been accepted by **IEEE VTC2024-spring**. (2024-03-05)
+
+
+
+Our paper [“Lightweight Neural Network with Knowledge Distillation for CSI Feedback”](https://arxiv.org/abs/2210.17113) has been accepted by **IEEE Transactions on Communications**. Hearty congratulations to Yiming Cui on the publication of his 4th journal paper! It's a commendable milestone. (2024-02-23)
 
 
 
