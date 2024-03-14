@@ -28,7 +28,7 @@ Our paper [“Achievable Rate Analysis and Optimization of Double-RIS Assisted S
 
 Our paper [“Lightweight Neural Network with Knowledge Distillation for CSI Feedback”](https://arxiv.org/abs/2210.17113) has been accepted by **IEEE Transactions on Communications**. Hearty congratulations to Yiming Cui on the publication of his 4th journal paper! It's a commendable milestone. (2024-02-23)
 
-
+I received the 2023 Chinese Institute of Electronics Best Doctoral Thesis Award. (2024-01-17)
 
 # **Selected publications**
 
