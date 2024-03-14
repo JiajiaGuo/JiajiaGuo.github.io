@@ -15,6 +15,10 @@ I received the B.S. degree from the Nanjing University of Science and Technology
 - **Deep learning**: neural network compression, federated learning, ...
 - **3GPP standardization**: RAN 1 & RAN 4
 
+# **News**
+
+Our paper [Lightweight Neural Network with Knowledge Distillation for CSI Feedback](https://arxiv.org/abs/2210.17113) has been accepted by **IEEE Transactions on Communications**. Hearty congratulations to Yiming Cui on the publication of his 4th journal paper! It's a commendable milestone. (2024-2-23)
+
 
 
 # **Selected publications**
