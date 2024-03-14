@@ -18,7 +18,7 @@ Should you have any inquiries, please don't hesitate to send an email to [jiajia
 - **Deep learning**: neural network compression, federated learning, ...
 - **3GPP standardization**: RAN 1 & RAN 4
 
-# **News**
+# **News**  (Since 2024)
 
 My wife, Yun Hu, has successfully defended her doctoral thesis. Special thanks to Professor Zhuohang Li for his invaluable guidance. I sincerely wish Yun the best and salute Yun for her persistent efforts. (2024-03-06)
 
