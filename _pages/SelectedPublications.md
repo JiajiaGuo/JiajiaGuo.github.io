@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-# **Selected publications**
+ 
 
 ## **Overview**
 
