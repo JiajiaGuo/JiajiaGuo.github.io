@@ -22,6 +22,10 @@ Should you have any inquiries, please don't hesitate to send an email to [jiajia
 
 # **News**  (Since 2024)
 
+
+Our paper “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
+
+
 My wife, Yun Hu, has successfully defended her doctoral thesis. I sincerely wish Yun the best. (2024-03-06)
 
 
@@ -29,9 +33,7 @@ Our two papers: “Secure and Efficient Data Sharing for Indoor Positioning with
 
 Our paper [“Achievable Rate Analysis and Optimization of Double-RIS Assisted Spatially Correlated MIMO with Statistical CSI”](https://arxiv.org/abs/2403.07274) has been accepted by *China Communications*. Congratulations to [Dr. Kaizhe Xu](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/communications-and-networking/department-staff/academic-staff/staff/kaizhe-xu). (2024-02-27)
 
-
-
-Our paper [“Lightweight Neural Network with Knowledge Distillation for CSI Feedback”](https://arxiv.org/abs/2210.17113) has been accepted by *IEEE Transactions on Communications*. Hearty congratulations to [Yiming Cui](https://ieeexplore.ieee.org/author/37089518670) on the publication of his 4th journal paper! It's a commendable milestone. (2024-02-23)
+Our paper [“Lightweight Neural Network with Knowledge Distillation for CSI Feedback”](https://arxiv.org/abs/2210.17113) has been accepted by *IEEE Transactions on Communications*. Hearty congratulations to [Yiming Cui](https://ieeexplore.ieee.org/author/37089518670) on the publication of his 4th first-author journal paper! It's a commendable milestone. (2024-02-23)
 
 We have received funding from the [Guangdong Basic and Applied Basic Research Foundation](http://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4361130.html) under Grant No. 2023A1515110732 (PI: Jiajia Guo). 
 
