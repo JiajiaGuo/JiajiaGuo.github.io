@@ -20,7 +20,8 @@ Should you have any inquiries, please don't hesitate to send an email to [jiajia
 - **Deep learning**: neural network compression, federated learning, ...
 - **3GPP standardization**: RAN 1 & RAN 4
 
-# **News**  (Since 2024)
+# **News** 
+## (Since 2024)
 
 
 Our paper “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
