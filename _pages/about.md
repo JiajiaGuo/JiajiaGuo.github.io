@@ -26,9 +26,6 @@ Should you have any inquiries, please don't hesitate to send an email to [jiajia
 Our paper “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
 
 
-My wife, Yun Hu, has successfully defended her doctoral thesis. I sincerely wish Yun the best. (2024-03-06)
-
-
 Our two papers: “Secure and Efficient Data Sharing for Indoor Positioning with Federated Learning in Mobile Blockchain Networks” and “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results”, have been accepted by [IEEE VTC2024-spring](https://events.vtsociety.org/vtc2024-spring/). See you in Singapore in June. (2024-03-05)
 
 Our paper [“Achievable Rate Analysis and Optimization of Double-RIS Assisted Spatially Correlated MIMO with Statistical CSI”](https://arxiv.org/abs/2403.07274) has been accepted by *China Communications*. Congratulations to [Dr. Kaizhe Xu](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/communications-and-networking/department-staff/academic-staff/staff/kaizhe-xu). (2024-02-27)
