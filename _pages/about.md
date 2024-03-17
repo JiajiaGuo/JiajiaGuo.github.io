@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WNWfIdvOBQZwORV1xHGan5HnZzQ3EdsNZVF-CuDHJiI&cl=ffffff&w=a"></script>
  
 I received the B.S. degree from the Nanjing University of Science and Technology in 2016, the M.S. degree from the University of Science and Technology of China in 2019, and the Ph.D. degree under the supervision of [Prof. Shi Jin](https://radio.seu.edu.cn/2018/0423/c19937a213534/page.htm) in information and communications engineering from Southeast University in 2023. Since 2023, I have been serving as a Postdoctoral Fellow (Class A) supported by the [UM Talent Programme](https://www.um.edu.mo/research/talent-development/ummtp/) at the State Key Laboratory of Internet of Things for Smart City, University of Macau. My current research interests include AI-native air interface, RIS, and massive MIMO. My achievements were selected as one of the [Top 10 Science and Technology Progress in the Information and Communication field for 2022 in China](https://www.china-cic.cn/Detail/24/5185/5185). I were the recipient of the First Prize from Natural Science of the Chinese Institute of Electronics and the [2023 Chinese Institute of Electronics Best Doctoral Thesis Award](https://www.cie.org.cn/list_43/12007.html).
  
