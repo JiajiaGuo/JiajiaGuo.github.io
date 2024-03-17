@@ -276,5 +276,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-google_analytics: G-DM2GPJBE23
