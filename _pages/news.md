@@ -31,7 +31,4 @@ We have received funding from the [Guangdong Basic and Applied Basic Research Fo
 My doctoral thesis, "Research on 6G-oriented intelligent channel state information feedback in massive MIMO", received the [2023 Chinese Institute of Electronics Best Doctoral Thesis Award](https://www.cie.org.cn/list_43/12007.html). Special thanks to Prof. Shi Jin for his meticulous guidance. (2024-01-17)
 
 
- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WNWfIdvOBQZwORV1xHGan5HnZzQ3EdsNZVF-CuDHJiI&cl=ffffff&w=a"></script>
-
-
 
