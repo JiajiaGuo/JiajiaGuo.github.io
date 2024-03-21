@@ -12,6 +12,10 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+We have uploaded our recent work about fluid antenna and MEC (“[Fluid Antenna for Mobile Edge Computing](https://arxiv.org/abs/2403.11806)”) to ArXiv.
+
+has  “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
+
 
 Our paper “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
 
