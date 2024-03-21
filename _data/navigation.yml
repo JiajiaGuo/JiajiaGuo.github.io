@@ -5,8 +5,8 @@ main:
   - title: "Selected Publications"
     url: /SelectedPublications/  
 
-#  - title: "Talks"
-#    url: /talks/  
+  - title: "Talks"
+    url: /talks/  
 
 #  - title: "Teaching"
 #    url: /teaching/    
