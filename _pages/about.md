@@ -22,7 +22,7 @@ Should you have any inquiries, please don't hesitate to send an email to [jiajia
 - **3GPP standardization**: RAN 1 & RAN 4
 
 # **News**  (Since 2024)
-
+111
 
 Our paper “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
 
