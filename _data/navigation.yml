@@ -1,6 +1,7 @@
 # main links links
 main:
-
+  - title: "news"
+    url: /news/  
   - title: "Selected Publications"
     url: /SelectedPublications/  
 
