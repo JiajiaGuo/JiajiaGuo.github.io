@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Invided by Prof. [Zhen Gao](https://gaozhen16.github.io/), I gave a talk, "Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach", in Beijing Institute of Technology. (2024-03-21)
+Invited by Prof. [Zhen Gao](https://gaozhen16.github.io/), I gave a talk, "Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach", in Beijing Institute of Technology. (2024-03-21)
 
 We have uploaded our recent work about fluid antenna and MEC (“[Fluid Antenna for Mobile Edge Computing](https://arxiv.org/abs/2403.11806)”) to arXiv. (2024-03-18)
 
