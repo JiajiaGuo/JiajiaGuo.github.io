@@ -12,7 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-We have uploaded our recent work about fluid antenna and MEC (“[Fluid Antenna for Mobile Edge Computing](https://arxiv.org/abs/2403.11806)”) to ArXiv.
+Invided by Prof. [Zhen Gao](https://gaozhen16.github.io/), I gave a talk, "Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach", in Beijing Institute of Technology. (2024-03-21)
+
+We have uploaded our recent work about fluid antenna and MEC (“[Fluid Antenna for Mobile Edge Computing](https://arxiv.org/abs/2403.11806)”) to arXiv. (2024-03-18)
 
 has  “Facilitating AI-based CSI Feedback Deployment in Massive MIMO Systems with Learngene” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-03-15)
 
