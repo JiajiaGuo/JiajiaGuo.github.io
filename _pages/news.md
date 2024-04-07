@@ -14,7 +14,6 @@ redirect_from:
 
 We have submitted a proposal (R4-2404430) to 3GPP TSG-RAN WG4 Meeting #110-bis. The proposal title is "Discussion on the backbone structures related to CSI compression with two-side AI/ML model." We introduce the CsiNet and its variants, such as CsiNet+ and CsiNet-LSTM. (2024-04-07)
 
-Invited by Prof. [Zhen Gao](https://gaozhen16.github.io/), I gave a talk, "Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach", in Beijing Institute of Technology. (2024-03-21)
 
 Invited by Prof. [Zhen Gao](https://gaozhen16.github.io/), I gave a talk, "Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach", in Beijing Institute of Technology. (2024-03-21)
 
