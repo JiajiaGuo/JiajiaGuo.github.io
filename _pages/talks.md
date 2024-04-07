@@ -1,4 +1,3 @@
-
 ---
 permalink: /talks/
 title: ""
@@ -9,7 +8,7 @@ redirect_from:
 ---
 
 
- 
+
 
 # **News**  (Since 2024)
   Will coming soon!
