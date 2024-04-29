@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Congratulations to Cui Yiming for winning the Huawei Scholarship (PhD). (2024-04-22)
+Congratulations to [Yiming Cui](https://ieeexplore.ieee.org/author/37089518670) for winning the Huawei Scholarship (PhD). (2024-04-22)
 
 We have submitted a proposal ([R4-2404430](https://www.3gpp.org/ftp/Meetings_3GPP_SYNC/RAN4/Docs/R4-2404430.zip)) to 3GPP TSG-RAN WG4 Meeting #110-bis. The proposal title is "Discussion on the backbone structures related to CSI compression with two-side AI/ML model." We introduce the CsiNet and its variants, such as CsiNet+ and CsiNet-LSTM. (2024-04-07)
 
