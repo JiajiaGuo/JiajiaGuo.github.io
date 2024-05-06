@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+Our recent work about fluid antenna and MEC (“[Fluid Antenna for Mobile Edge Computing](https://arxiv.org/abs/2403.11806)”) has been accepted by _IEEE Communications Letters_. (2024-05-02)
+
 We participated in the [17th China Electronic Information Annual Conference](http://ceic.cie.org.cn/) and was awarded the First Prize from Natural Science of the Chinese Institute of Electronics. (2024-04-27)
 
 Congratulations to [Yiming Cui](https://ieeexplore.ieee.org/author/37089518670) for winning the Huawei Scholarship (PhD). (2024-04-22)
