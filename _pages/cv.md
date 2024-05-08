@@ -19,16 +19,14 @@ Work experience
 ======
 * UM Postdoctoral Fellow (UM Talent Programme) in State Key Laboratory of Internet of Things for Smart City
 University of Macau (UM) (Aug. 2023 - Present)
-
----
-
 * Research Assistant in State Key Laboratory of Internet of Things for Smart City (Apr. 2023 - Jul. 2023)
 
----
+
 Selected Awards & Honors
 ======
-* Skill 1
-* Skill 2
+* Best Ph.D. Thesis Award from Chinese Institute of Electronics (Jan. 2024)
+* Top ten technological advancements information and communication in 2022 from China Institute of Communications} (Aug. 2023)
+* 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
