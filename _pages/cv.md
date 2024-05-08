@@ -21,6 +21,13 @@ Work experience
 University of Macau (UM) (Aug. 2023 - Present)
 * Research Assistant in State Key Laboratory of Internet of Things for Smart City (Apr. 2023 - Jul. 2023)
 
+# **Main research interest**
+
+- **AI-native air interface**: deep learning-based CSI feedback, ...
+- **Massive MIMO**: RIS, extreme massive MIMO, ...
+- **Deep learning**: neural network compression, federated learning, ...
+- **3GPP standardization**: RAN 1 & RAN 4
+
 
 Selected Awards & Honors
 ======
