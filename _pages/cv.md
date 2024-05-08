@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Southeast University, Mar. 2023.
-* M.S. in University of Science and Technology of China, June 2019.
-* B.S. in Nanjing University of Science and Technology, June 2016.
+* Ph.D in Southeast University, Sept. 2019 - Mar. 2023.
+* M.S. in University of Science and Technology of China, Sept. 2016 - June 2019.
+* B.S. in Nanjing University of Science and Technology, Sept. 2012 - June 2016.
 
 Work experience
 ======
