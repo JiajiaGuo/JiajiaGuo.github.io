@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: ""
 permalink: /SelectedPublications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{[site.author.googlescholar](https://scholar.google.com/citations?user=WN7-Mz4AAAAJ)}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
+ You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=WN7-Mz4AAAAJ)
 
  
 
