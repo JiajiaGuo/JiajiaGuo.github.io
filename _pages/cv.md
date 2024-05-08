@@ -17,9 +17,8 @@ Education
 
 Work experience
 ======
-* UM Postdoctoral Fellow (UM Talent Programme) in State Key Laboratory of Internet of Things for Smart City
-University of Macau (UM) (Aug. 2023 - Present)
-* Research Assistant in State Key Laboratory of Internet of Things for Smart City (Apr. 2023 - Jul. 2023)
+* UM Postdoctoral Fellow (funded by UM Talent Programme) in State Key Laboratory of Internet of Things for Smart City, University of Macau (UM) (Aug. 2023 - Present)
+* Research Assistant in State Key Laboratory of Internet of Things for Smart City, University of Macau (Apr. 2023 - Jul. 2023)
 
 # **Main research interest**
 
