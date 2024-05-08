@@ -17,21 +17,19 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## UM Postdoctoral Fellow (UM Talent Programme)
+**University of Macau (UM)**
+State Key Laboratory of Internet of Things for Smart City
+Aug. 2023 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+## Research Assistant
+**University of Macau (UM)**
+State Key Laboratory of Internet of Things for Smart City
+Apr. 2023 - Jul. 2023
+
+---
 Skills
 ======
 * Skill 1
