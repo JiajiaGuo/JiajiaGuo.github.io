@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Multi-Domain Correlation-aided Implicit CSI Feedback using Deep Learning” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Chengyong Jiang (First-year PhD student). (2024-05-08)
+Our paper “[Multi-Domain Correlation-aided Implicit CSI Feedback using Deep Learning](https://ieeexplore.ieee.org/document/10536048)” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Chengyong Jiang (First-year PhD student). (2024-05-08)
 
 Our recent work about fluid antenna and MEC (“[Fluid Antenna for Mobile Edge Computing](https://ieeexplore.ieee.org/document/10528324)”) has been accepted by _IEEE Communications Letters_. (2024-05-02)
 
