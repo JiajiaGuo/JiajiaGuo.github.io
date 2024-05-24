@@ -25,3 +25,13 @@ author_profile: true
 [2] [J. Guo, C.-K. Wen, M. Chen, and S. Jin, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
 
 
+[3] [J. Guo, C.-K. Wen, S. Jin, and G. Y. Li, “Convolutional Neural Network-Based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis,” IEEE Trans. Wireless Commun., vol. 19, no. 4, pp. 2827-2840, Apr. 2020.](https://ieeexplore.ieee.org/document/8972904) (This paper introduces a novel quantization framework and two variable-rate feedback approaches.)
+
+
+### Introducing correlations to AI-based CSI feedback
+
+[1] [J. Guo, C.-K. Wen and S. Jin, "CAnet: Uplink-aided downlink channel acquisition in FDD massive MIMO using deep learning", IEEE Trans. Commun., vol. 70, no. 1, pp. 199-214, Jan. 2022.](https://ieeexplore.ieee.org/document/9570376) (This paper proposes a uplink-aided downlink channel acquisition framework.)
+
+
+[2] [J. Guo, C.-K. Wen, M. Chen, and S. Jin, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
+
