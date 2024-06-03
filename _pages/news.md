@@ -12,7 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Mobile Blockchain-enabled Secure and Efficient Information Management for Indoor Positioning with Federated Learning” has been accepted by *IEEE Transactions on Mobile Computing*. (2024-05-24)
+Our paper “Global-Local Features Reconstruction Network for FDD Massive MIMO CSI Feedback” has been accepted by *IEEE Wireless Communications Letters*. (2024-05-31)
+
+Our paper “[Mobile Blockchain-enabled Secure and Efficient Information Management for Indoor Positioning with Federated Learning](https://ieeexplore.ieee.org/document/10543123)” has been accepted by *IEEE Transactions on Mobile Computing*. (2024-05-24)
 
 Our paper “[Multi-Domain Correlation-aided Implicit CSI Feedback using Deep Learning](https://ieeexplore.ieee.org/document/10536048)” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Chengyong Jiang (First-year PhD student). (2024-05-08)
 
