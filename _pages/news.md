@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Global-Local Features Reconstruction Network for FDD Massive MIMO CSI Feedback” has been accepted by *IEEE Wireless Communications Letters*. (2024-05-31)
+Our paper “[Global-Local Features Reconstruction Network for FDD Massive MIMO CSI Feedback](https://ieeexplore.ieee.org/document/10552161/)” has been accepted by *IEEE Wireless Communications Letters*. (2024-05-31)
 
 Our paper “[Mobile Blockchain-enabled Secure and Efficient Information Management for Indoor Positioning with Federated Learning](https://ieeexplore.ieee.org/document/10543123)” has been accepted by *IEEE Transactions on Mobile Computing*. (2024-05-24)
 
