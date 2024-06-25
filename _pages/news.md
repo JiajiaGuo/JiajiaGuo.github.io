@@ -12,6 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+
+Our paper “Learning-based Integrated CSI Feedback and Localization in Massive MIMO” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-06-25)
+
 Our paper “[Auto-CsiNet: Scenario-customized Automatic Neural Network Architecture Generation for Massive MIMO CSI Feedback](https://arxiv.org/abs/2311.15950)” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-06-16)
 
 Our conference paper “[Performance Monitoring for AI-based CSI Feedback via Proxy](https://ieeexplore.ieee.org/document/10543881)” has been added to IEEE Xplore. (2024-06-07)
