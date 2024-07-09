@@ -12,7 +12,10 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-I has been served as an academic editor of [IET Signal Processing](https://ietresearch.onlinelibrary.wiley.com/page/journal/ietsp/homepage/editorial-board). (2024-07-08).
+We have uploaded our recent work about AI for CSI feedback in Wi-FI (“[Deep Learning-based CSI Feedback in Wi-Fi Systems](https://arxiv.org/abs/2407.05905)”) to arXiv. (2024-07-09)
+
+
+I has been selected as an academic editor of [IET Signal Processing](https://ietresearch.onlinelibrary.wiley.com/page/journal/ietsp/homepage/editorial-board). (2024-07-08).
 
 Our paper “Learning-based Integrated CSI Feedback and Localization in Massive MIMO” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-06-25)
 
