@@ -12,8 +12,13 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-We have uploaded our recent work about AI for CSI feedback in Wi-FI (“[Deep Learning-based CSI Feedback in Wi-Fi Systems](https://arxiv.org/abs/2407.05905)”) to arXiv. (2024-07-09)
 
+
+
+Our paper “[AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective](https://arxiv.org/abs/2309.10575)” has been accepted by *IEEE Vehicular Technology Magazine*. (2024-07-12)
+
+
+We have uploaded our recent work about AI for CSI feedback in Wi-FI (“[Deep Learning-based CSI Feedback in Wi-Fi Systems](https://arxiv.org/abs/2407.05905)”) to arXiv. (2024-07-09)
 
 I has been selected as an academic editor of [IET Signal Processing](https://ietresearch.onlinelibrary.wiley.com/page/journal/ietsp/homepage/editorial-board). (2024-07-08).
 
