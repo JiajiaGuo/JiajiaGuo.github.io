@@ -22,7 +22,7 @@ We have uploaded our recent work about AI for CSI feedback in Wi-FI (“[Deep Le
 
 I has been selected as an academic editor of [IET Signal Processing](https://ietresearch.onlinelibrary.wiley.com/page/journal/ietsp/homepage/editorial-board). (2024-07-08).
 
-Our paper “Learning-based Integrated CSI Feedback and Localization in Massive MIMO” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-06-25)
+Our paper “[Learning-based Integrated CSI Feedback and Localization in Massive MIMO](https://ieeexplore.ieee.org/document/10597358)” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-06-25)
 
 Our paper “[Auto-CsiNet: Scenario-customized Automatic Neural Network Architecture Generation for Massive MIMO CSI Feedback](https://ieeexplore.ieee.org/document/10582850)” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-06-16)
 
