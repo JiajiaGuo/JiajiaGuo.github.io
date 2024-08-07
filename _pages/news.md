@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-Our paper “[AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective](https://arxiv.org/abs/2309.10575)” has been accepted by *IEEE Vehicular Technology Magazine*. (2024-07-12)
+Our paper “[AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective](https://ieeexplore.ieee.org/document/10627924)” has been accepted by *IEEE Vehicular Technology Magazine*. (2024-07-12)
 
 
 We have uploaded our recent work about AI for CSI feedback in Wi-FI (“[Deep Learning-based CSI Feedback in Wi-Fi Systems](https://arxiv.org/abs/2407.05905)”) to arXiv. (2024-07-09)
