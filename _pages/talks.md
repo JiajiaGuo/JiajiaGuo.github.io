@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
+- "AI-enabled CSI Feedback" at the [2024 Summer School on Intelligent Communications](https://www.cie.org.cn/list_43/13096.html), jointly organized by Beijing University of Posts and Telecommunications and the Chinese Institute of Electronics, Aug. 12, 2024.
 
-
-- “Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach” in Beijing Institute of Technology, Mar. 21, 2024.
+- "Channel Acquisition for Beamforming in RIS-assisted Communications: A Deep Learning Approach" in Beijing Institute of Technology, Mar. 21, 2024.
 
 - "Deep Learning-based CSI Feedback: Recent Advances and Standardization" in Guangzhou University, Nov. 11, 2023.
 
