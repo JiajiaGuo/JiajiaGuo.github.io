@@ -13,7 +13,7 @@ redirect_from:
 # **News**  (Since 2024)
 
 
-I was invited to give a talk on "AI-ENABLED CSI FEEDBACK" at the 2024 Summer School on Intelligent Communications, jointly organized by Beijing University of Posts and Telecommunications and the Chinese Institute of Electronics. (2024-08-12)
+I was invited to give a talk on "AI-ENABLED CSI FEEDBACK" at the [2024 Summer School on Intelligent Communications](https://www.cie.org.cn/list_43/13096.html), jointly organized by Beijing University of Posts and Telecommunications and the Chinese Institute of Electronics. (2024-08-12)
 
 Our paper “[AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective](https://ieeexplore.ieee.org/document/10627924)” has been accepted by *IEEE Vehicular Technology Magazine*. (2024-07-12)
 
