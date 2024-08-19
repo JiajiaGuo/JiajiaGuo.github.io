@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-I was invited to give a talk on "AI for CSI Prediction in 5G-Advanced and Beyond" at the [2024 Global Scientists Blue Ocean Forum](https://www.china-cic.cn/Detail/24/5582/5582), organized by China Institute of Communications. (2024-08-17)
+I was invited to give a talk on "AI for CSI Prediction in 5G-Advanced and Beyond" at the [2024 Global Scientists Blue Ocean Forum](https://www.china-cic.cn/Detail/24/5582/5582), organized by China Institute of Communications. (2024-08-17)
 
 I was invited to give a talk on "AI-enabled CSI Feedback" at the [2024 Summer School on Intelligent Communications](https://www.cie.org.cn/list_43/13096.html), jointly organized by Beijing University of Posts and Telecommunications and the Chinese Institute of Electronics. (2024-08-12)
 
