@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+Our paper “End-to-End Communication with Task-Driven CSI Acquisition in Multiple-Antenna Systems” has been accepted by *IEEE Wireless Communications Letters*. (2024-08-27)
+
 I have received funding from the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/tab434/info93394.htm) under Grant No. 62401640 (PI: Jiajia Guo). (2024-08-23)
 
 I was invited to give a talk on "AI for CSI Prediction in 5G-Advanced and Beyond" at the [2024 Global Scientists Blue Ocean Forum](https://www.china-cic.cn/Detail/24/5582/5582), organized by China Institute of Communications. (2024-08-17)
