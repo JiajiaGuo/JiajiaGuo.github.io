@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “End-to-End Communication with Task-Driven CSI Acquisition in Multiple-Antenna Systems” has been accepted by *IEEE Wireless Communications Letters*. Congratulations to Jinya Zhang (First-year Master student) (2024-08-27)
+Our paper “End-to-End Communication with "[Task-Driven CSI Acquisition in Multiple-Antenna Systems](https://ieeexplore.ieee.org/document/10660537)" has been accepted by *IEEE Wireless Communications Letters*. Congratulations to Jinya Zhang (First-year Master student) (2024-08-27)
 
 I have received funding from the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/tab434/info93394.htm) under Grant No. 62401640 (PI: Jiajia Guo). (2024-08-23)
 
