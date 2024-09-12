@@ -41,3 +41,10 @@ author_profile: true
 
 [2] [J. Guo, C.-K. Wen, M. Chen, and S. Jin, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
 
+### Multi-module joint design supported by AI
+
+[1] [J. Guo, C. -K. Wen and S. Jin, "Deep Learning-Based CSI Feedback for Beamforming in Single- and Multi-Cell Massive MIMO Systems," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 7, pp. 1872-1884, July 2021.](https://ieeexplore.ieee.org/document/9279228) (This paper proposes a DL-based CSI feedback framework for beamforming design, called CsiFBnet. The key idea of the CsiFBnet is to maximize the beamforming performance gain rather than the feedback accuracy. )
+
+[2] [J. Guo, T. Chen, S. Jin, G. Y. Li, X. Wang, and X. Hou “Deep learning for joint channel estimation and feedback in massive MIMO systems,” Digital Communications and Networks, vol. 10, no. 1, pp. 83-93, Jan., 2024.](https://www.sciencedirect.com/science/article/pii/S235286482300024X) (This paper proposes a deep learning based joint channel estimation and feedback framework, which comprehensively realizes the estimation, compression, and reconstruction of downlink channels in FDD massive MIMO systems.)
+
+
