@@ -41,7 +41,7 @@ author_profile: true
 [1] [J. Guo, C.-K. Wen and S. Jin, "CAnet: Uplink-aided downlink channel acquisition in FDD massive MIMO using deep learning", IEEE Trans. Commun., vol. 70, no. 1, pp. 199-214, Jan. 2022.](https://ieeexplore.ieee.org/document/9570376) (This paper proposes a uplink-aided downlink channel acquisition framework.)
 
 
-[2] [In this paper, we propose a deep learning based joint channel estimation and feedback framework, which comprehensively realizes the estimation, compression, and reconstruction of downlink channels in FDD massive MIMO systems.](https://ieeexplore.ieee.org/document/9737435) (This paper utilizes the spatial correlation to improve feedback accuracy by user-centric online learning.)
+[2] [J. Guo, Y. Zuo, C. -K. Wen and S. Jin, "User-Centric Online Gossip Training for Autoencoder-Based CSI Feedback," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 3, pp. 559-572, April 2022.](https://ieeexplore.ieee.org/document/9737435) (This paper utilizes the spatial correlation to improve feedback accuracy by user-centric online learning.)
 
 ### Multi-module joint design supported by AI
 
