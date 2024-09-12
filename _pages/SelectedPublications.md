@@ -19,6 +19,10 @@ author_profile: true
 
 ## **Technical paper**
 
+### Integrated Sensing and Communications (ISAC)
+
+[1] [J. Guo, Y. Lv, C.-K. Wen, X. Li, and S. Jin*, “Learning-based Integrated CSI Feedback and Localization in Massive MIMO,” IEEE Transactions on Wireless Communications,  Early access, 2024.](https://ieeexplore.ieee.org/document/10597358) (This paper introduces an integrated learning framework for CSI feedback and localization designed to synergistically improve both tasks.)
+
 ### Deployment of AI-based CSI feedback
 
 [1] [J. Guo, J. Wang, C.-K. Wen, S. Jin, and G. Y. Li, “Compression and acceleration of neural networks for communications,” IEEE Wireless Commun., vol. 27, no. 4, pp. 110–117, Aug. 2020.](https://ieeexplore.ieee.org/document/9136588) (This paper introduces some novel neural network compression techniques to reduce the complexity of AI-based air interface.)
