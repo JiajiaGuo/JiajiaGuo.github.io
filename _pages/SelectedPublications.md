@@ -17,6 +17,8 @@ author_profile: true
 
 [3] [Q. Xue, J. Guo*, B. Zhou, Y. Xu, Z. Li and S. Ma*, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” IEEE Vehicular Technology Magazine,  Early access, 2024.](https://ieeexplore.ieee.org/document/10627924) (This paper gives a comprehensive overview of the recent work about AI-based beam management in 3GPP standardization.)
 
+[4] [J. Guo, C.-K. Wen, and S. Jin*,"AI-Native Air Interface." Fundamentals of 6G Communications and Networking. Cham: Springer International Publishing, 2023. 143-163.](https://link.springer.com/chapter/10.1007/978-3-031-37920-8_6) (This book chapter gives a comprehensive overview of AI for end-to-end communications and single-module enhancement.)
+
 ## **Technical paper**
 
 ### Integrated Sensing and Communications (ISAC)
