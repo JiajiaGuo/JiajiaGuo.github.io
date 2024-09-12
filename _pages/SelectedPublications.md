@@ -15,7 +15,7 @@ author_profile: true
 
 [2]  [J. Guo, C.-K. Wen, S. Jin, and X. Li, “AI for CSI feedback enhancement in 5G-Advanced,” IEEE Wireless Commun.,  vol. 31, no. 3, pp. 169–176, Jun. 2024.](https://ieeexplore.ieee.org/document/9970357) (This paper gives a comprehensive overview of the recent work about AI-based CSI feedback in 3GPP standardization.)
 
-[3] [Q. Xue, J. Guo&#999, B. Zhou, Y. Xu, Z. Li and S. Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” IEEE Vehicular Technology Magazine,  Early access, 2024.](https://ieeexplore.ieee.org/document/10627924) (This paper gives a comprehensive overview of the recent work about AI-based beam management in 3GPP standardization.)
+[3] [Q. Xue, J. Guo &#999, B. Zhou, Y. Xu, Z. Li and S. Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” IEEE Vehicular Technology Magazine,  Early access, 2024.](https://ieeexplore.ieee.org/document/10627924) (This paper gives a comprehensive overview of the recent work about AI-based beam management in 3GPP standardization.)
 
 ## **Technical paper**
 
