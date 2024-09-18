@@ -7,6 +7,7 @@ redirect_from:
   - /Talks.html
 ---
 
+- "AI for CSI Prediction in 5G-Advanced and Beyond" at the [2024 Global Scientists Blue Ocean Forum](https://www.china-cic.cn/Detail/24/5582/5582), organized by China Institute of Communications, Aug. 17, 2024.
 
 - "AI-enabled CSI Feedback" at the [2024 Summer School on Intelligent Communications](https://www.cie.org.cn/list_43/13096.html), jointly organized by Beijing University of Posts and Telecommunications and the Chinese Institute of Electronics, Aug. 12, 2024.
 
