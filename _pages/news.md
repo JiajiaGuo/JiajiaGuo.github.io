@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications" has been accepted by *IEEE Transactions on Vehicular Technology*. Congratulations to Yiming CUI. (2024-09-12)
+Our paper “[Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications](https://ieeexplore.ieee.org/document/10682060)" has been accepted by *IEEE Transactions on Vehicular Technology*. Congratulations to Yiming CUI. (2024-09-12)
 
 Our paper “[End-to-End Communication with Task-Driven CSI Acquisition in Multiple-Antenna Systems](https://ieeexplore.ieee.org/document/10660537)" has been accepted by *IEEE Wireless Communications Letters*. Congratulations to Jinya Zhang (First-year Master student) (2024-08-27)
 
