@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Enhancing Reliability in AI-Based CSI Prediction: A Proxy-Based Performance Monitoring Approach" has been accepted by *IEEE Transactions on Communications. Congratulations to Chengyong Jiang (First-year PhD student), his second Transactions paper. (2024-09-28)
+Our paper “Enhancing Reliability in AI-Based CSI Prediction: A Proxy-Based Performance Monitoring Approach" has been accepted by *IEEE Transactions on Communications*. Congratulations to Chengyong Jiang (First-year PhD student), his second Transactions paper. (2024-09-28)
 
 Our paper “[Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications](https://ieeexplore.ieee.org/document/10682060)" has been accepted by *IEEE Transactions on Vehicular Technology*. Congratulations to Yiming CUI. (2024-09-12)
 
