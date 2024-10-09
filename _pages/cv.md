@@ -30,6 +30,7 @@ Work experience
 
 Selected Awards & Honors
 ======
+* Best Ph.D. Thesis Award from Southeast University (Sept. 2024)
 * the First Prize from Natural Science of the Chinese Institute of Electronics (Apr. 2024)
 * Best Ph.D. Thesis Award from Chinese Institute of Electronics (Jan. 2024)
 * Top ten technological advancements information and communication in 2022 from China Institute of Communications (Aug. 2023)
