@@ -27,7 +27,15 @@ Work experience
 - **Deep learning**: neural network compression, federated learning, ...
 - **3GPP standardization**: RAN 1 & RAN 4
 
+Project
+======
+* Ph.D in Southeast University, Sept. 2019 - Mar. 2023.
+* M.S. in University of Science and Technology of China, Sept. 2016 - June 2019.
+* Young Scientists Fund of the National Natural Science Foundation of China (Grant 62401640), “\textbf{Research on Key Technologies for Intelligent Channel State Information Feedback},” PI, 2025-2027, 300,000 RMB.
+*  Guangdong Basic and Applied Basic Research Fund (Grant 2023A1515110732),
+“\textbf{ Research on Massive MIMO Channel State Information Feedback using AI},” PI, Nov. 2023-now, 100,000 RMB.
 
+  
 Selected Awards & Honors
 ======
 * Best Ph.D. Thesis Award from Southeast University (Sept. 2024)
