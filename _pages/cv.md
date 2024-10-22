@@ -35,7 +35,7 @@ Project
   
 Selected Awards & Honors
 ======
-* Best Paper Award from WCSP (oCT. 2024)
+* Best Paper Award from WCSP (Oct. 2024)
 * Best Ph.D. Thesis Award from Southeast University (Sept. 2024)
 * the First Prize from Natural Science of the Chinese Institute of Electronics (Apr. 2024)
 * Best Ph.D. Thesis Award from Chinese Institute of Electronics (Jan. 2024)
