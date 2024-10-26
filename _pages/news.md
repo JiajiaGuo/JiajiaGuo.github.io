@@ -14,7 +14,7 @@ redirect_from:
 
 Our paper "CQI Generation for AI-Enabled CSI Feedback" has been selected as a winner of the Best Paper Award of WCSP 2024. (2024-10-21)
 
-Our paper “SCANet: A Lightweight Deep Learning Network for Massive MIMO CSI Feedback based on Spatial and Channel Attention Mechanism" has been accepted by *Physical Communication*. (2024-09-30)
+Our paper “[SCANet: A Lightweight Deep Learning Network for Massive MIMO CSI Feedback based on Spatial and Channel Attention Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S1874490724002349)" has been accepted by *Physical Communication*. (2024-09-30)
 
 Our paper “[Enhancing Reliability in AI-Based CSI Prediction: A Proxy-Based Performance Monitoring Approach](https://ieeexplore.ieee.org/document/10706231)" has been accepted by *IEEE Transactions on Communications*. Congratulations to Chengyong Jiang (First-year PhD student), his second Transactions paper. (2024-09-28)
 
