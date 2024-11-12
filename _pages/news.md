@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Performance Monitoring-enabled Reliable AI-based CSI Feedback” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-10-25)
+Our paper “[Performance Monitoring-enabled Reliable AI-based CSI Feedback](https://ieeexplore.ieee.org/document/10750249)” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-10-25)
 
 Our paper "CQI Generation for AI-Enabled CSI Feedback" has been selected as a winner of the Best Paper Award of [WCSP 2024](http://www.ic-wcsp.org/2024/). (2024-10-25)
 
