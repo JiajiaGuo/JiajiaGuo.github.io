@@ -27,13 +27,15 @@ author_profile: true
 
 ### Deployment of AI-based CSI feedback
 
-[1] [J. Guo, J. Wang, C.-K. Wen, S. Jin*, and G. Y. Li, “Compression and acceleration of neural networks for communications,” IEEE Wireless Commun., vol. 27, no. 4, pp. 110–117, Aug. 2020.](https://ieeexplore.ieee.org/document/9136588) (This paper introduces some novel neural network compression techniques to reduce the complexity of AI-based air interface.)
+[1] [J. Guo, S. Ma, C.-K. Wen, and S. Jin*, “Performance Monitoring-enabled Reliable AI-based CSI Feedback,”IEEE Trans. Wireless Commun., 2024.](https://ieeexplore.ieee.org/document/10750249) (This paper introduces performance monitoring for reliable AI-based CSI feedback.)
+
+[2] [J. Guo, J. Wang, C.-K. Wen, S. Jin*, and G. Y. Li, “Compression and acceleration of neural networks for communications,” IEEE Wireless Commun., vol. 27, no. 4, pp. 110–117, Aug. 2020.](https://ieeexplore.ieee.org/document/9136588) (This paper introduces some novel neural network compression techniques to reduce the complexity of AI-based air interface.)
 
 
-[2] [J. Guo, C.-K. Wen, M. Chen, and S. Jin*, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
+[3] [J. Guo, C.-K. Wen, M. Chen, and S. Jin*, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
 
 
-[3] [J. Guo, C.-K. Wen, S. Jin*, and G. Y. Li, “Convolutional Neural Network-Based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis,” IEEE Trans. Wireless Commun., vol. 19, no. 4, pp. 2827-2840, Apr. 2020.](https://ieeexplore.ieee.org/document/8972904) (This paper introduces a novel quantization framework and two variable-rate feedback approaches.)
+[4] [J. Guo, C.-K. Wen, S. Jin*, and G. Y. Li, “Convolutional Neural Network-Based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis,” IEEE Trans. Wireless Commun., vol. 19, no. 4, pp. 2827-2840, Apr. 2020.](https://ieeexplore.ieee.org/document/8972904) (This paper introduces a novel quantization framework and two variable-rate feedback approaches.)
 
 
 ### Introducing correlations to AI-based CSI feedback
