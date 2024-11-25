@@ -12,7 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Congratulations to Jinya Zhang for winning the National Scholarship of China from Ministry of Education of the People’s Republic of China. (2024-11-12)
+Invited by Chinese Institute of Electronics, I gave a talk, "Intelligent Channel State Information Feedback in Massive MIMO", with Prof. Shi Jin in [Excellent Doctoral Forum of Chinese Institute of Electronics](https://yb.cie.org.cn/). (2024-11-23)
+
+Congratulations to Jinya Zhang and Yiming Cui for winning the National Scholarship of China from Ministry of Education of the People’s Republic of China. (2024-11-17)
 
 Our paper “[Performance Monitoring-enabled Reliable AI-based CSI Feedback](https://ieeexplore.ieee.org/document/10750249)” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-10-25)
 
