@@ -12,6 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+My doctoral thesis, "Research on 6G-oriented intelligent channel state information feedback in massive MIMO", received the [2024 Best Doctoral Thesis Award of Jiangsu Province, China](https://seugs.seu.edu.cn/2024/1127/c26671a512775/page.htm). Special thanks to Prof. Shi Jin for his meticulous guidance. (2024-11-27)
+
+
 Invited by Chinese Institute of Electronics, I gave a talk, "Intelligent Channel State Information Feedback in Massive MIMO", with Prof. Shi Jin in [Excellent Doctoral Forum of Chinese Institute of Electronics](https://yb.cie.org.cn/). (2024-11-23)
 
 Congratulations to Jinya Zhang and Yiming Cui for winning the National Scholarship of China from Ministry of Education of the People’s Republic of China. (2024-11-17)
