@@ -51,9 +51,15 @@ author_profile: true
 
 [2] [J. Guo, T. Chen, S. Jin*, G. Y. Li, X. Wang, and X. Hou “Deep learning for joint channel estimation and feedback in massive MIMO systems,” Digital Communications and Networks, vol. 10, no. 1, pp. 83-93, Jan. 2024.](https://www.sciencedirect.com/science/article/pii/S235286482300024X) (This paper proposes a deep learning based joint channel estimation and feedback framework, which comprehensively realizes the estimation, compression, and reconstruction of downlink channels in FDD massive MIMO systems.)
 
+### RIS
+
+[1] [J. Guo, W. Chen, C. -K. Wen and S. Jin*, "Deep Learning-Based Two-Timescale CSI Feedback for Beamforming Design in RIS-Assisted Communications," in IEEE Transactions on Vehicular Technology, vol. 72, no. 4, pp. 5452-5457, April 2023.](https://ieeexplore.ieee.org/document/9969163)(This letter proposes a deep learning-based two-timescale CSI feedback framework called RIS-CsiNet for beamforming design and discrete phase shift design in RIS-assisted systems.)
+
+[2] [J. Guo, X. Yang, C. -K. Wen, S. Jin*, and G. Y. Li, "Deep Learning-based CSI Feedback for RIS-assisted Multi-user Systems," in IEEE Transactions on Communications, 2024.](https://ieeexplore.ieee.org/document/10818491)(By exploiting the correlation in RIS-UE CSI, this paper proposes RIS-CoCsiNet, a novel deep learning-based framework aimed at significantly enhancing feedback efficiency.)
+
 ### Some new scenarios
 
 [1] [J. Guo, C. -K. Wen and S. Jin*, "Eliminating CSI Feedback Overhead via Deep Learning-Based Data Hiding," in IEEE Journal on Selected Areas in Communications, vol. 40, no. 8, pp. 2267-2281, Aug. 2022.](https://ieeexplore.ieee.org/document/9791341)(The key idea of this paper is to hide/superimpose CSI in transmitted messages (e.g., images) with no transmission resource occupation and few effects on message semantics.)
 
-[2] [J. Guo, W. Chen, C. -K. Wen and S. Jin*, "Deep Learning-Based Two-Timescale CSI Feedback for Beamforming Design in RIS-Assisted Communications," in IEEE Transactions on Vehicular Technology, vol. 72, no. 4, pp. 5452-5457, April 2023.](https://ieeexplore.ieee.org/document/9969163)(This letter proposes a deep learning-based two-timescale CSI feedback framework called RIS-CsiNet for beamforming design and discrete phase shift design in RIS-assisted systems.)
+
 
