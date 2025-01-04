@@ -22,6 +22,10 @@ Invited by Chinese Institute of Electronics, I gave a talk, "Intelligent Channel
 
 Congratulations to Jinya Zhang and Yiming Cui for winning the National Scholarship of China from Ministry of Education of the People’s Republic of China. (2024-11-17)
 
+Our paper “[Secure Data Sharing for Autonomous Vehicles in Mobile Blockchain Networks](https://ieeexplore.ieee.org/document/10759695)” has been accepted by *IEEE Network*. (2024-11-9)
+
+Our paper “[Deep Learning-Based CSI Feedback in Wi-Fi Systems](https://ieeexplore.ieee.org/document/10810137)”was presented in 2024 5th International Symposium on Computer Engineering and Intelligent Communications (ISCEIC). (2024-11-9)
+
 Our paper “[Performance Monitoring-enabled Reliable AI-based CSI Feedback](https://ieeexplore.ieee.org/document/10750249)” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-10-25)
 
 Our paper "CQI Generation for AI-Enabled CSI Feedback" has been selected as a winner of the Best Paper Award of [WCSP 2024](http://www.ic-wcsp.org/2024/). (2024-10-25)
