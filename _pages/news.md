@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “[Deep Learning-based CSI Feedback for RIS-assisted Multi-user Systems](https://arxiv.org/abs/2003.03303)” has been accepted by *IEEE Transactions on Communications*. (2024-12-23)
+Our paper “[Deep Learning-based CSI Feedback for RIS-assisted Multi-user Systems](https://ieeexplore.ieee.org/document/10818491)” has been accepted by *IEEE Transactions on Communications*. (2024-12-23)
 
 
 My doctoral thesis, "Research on 6G-oriented intelligent channel state information feedback in massive MIMO", received the [2024 Best Doctoral Thesis Award of Jiangsu Province, China](https://seugs.seu.edu.cn/2024/1127/c26671a512775/page.htm). Special thanks to Prof. Shi Jin for his meticulous guidance. (2024-11-27)
