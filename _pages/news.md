@@ -12,6 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+Our paper “FPNet: Joint AI for CSI Feedback and High-Accuracy Positioning in Wi-Fi Systems'” has been accepted by *IEEE ICC*.  Congratulations to Mr. Ran Tao (First-year Master student) (2025-1-18)
+
+
 Our paper “[Deep Learning-based CSI Feedback for RIS-assisted Multi-user Systems](https://ieeexplore.ieee.org/document/10818491)” has been accepted by *IEEE Transactions on Communications*. (2024-12-23)
 
 
@@ -54,8 +57,6 @@ I has been selected as an academic editor of [IET Signal Processing](https://iet
 Our paper “[Learning-based Integrated CSI Feedback and Localization in Massive MIMO](https://ieeexplore.ieee.org/document/10597358)” has been accepted by *IEEE Transactions on Wireless Communications*. (2024-06-25)
 
 Our paper “[Auto-CsiNet: Scenario-customized Automatic Neural Network Architecture Generation for Massive MIMO CSI Feedback](https://ieeexplore.ieee.org/document/10582850)” has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to [Xiangyi Li](https://ieeexplore.ieee.org/author/37088399252) . (2024-06-16)
-
-Our conference paper “[Performance Monitoring for AI-based CSI Feedback via Proxy](https://ieeexplore.ieee.org/document/10543881)” has been added to IEEE Xplore. (2024-06-07)
 
 
 Our paper “[Global-Local Features Reconstruction Network for FDD Massive MIMO CSI Feedback](https://ieeexplore.ieee.org/document/10552161/)” has been accepted by *IEEE Wireless Communications Letters*. (2024-05-31)
