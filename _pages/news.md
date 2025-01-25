@@ -12,6 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+We have uploaded our recent work about AI for CSI feedback in Wi-FI (“[Deep Learning-based CSI Feedback in Wi-Fi Systems](https://arxiv.org/abs/2407.05905)”) to arXiv. (2024-07-09)
+
+
 Our paper “FPNet: Joint AI for CSI Feedback and High-Accuracy Positioning in Wi-Fi Systems'” has been accepted by *IEEE ICC*.  Congratulations to Mr. Ran Tao (First-year Master student) (2025-1-18)
 
 
