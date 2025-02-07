@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* UM Postdoctoral Fellow (funded by UM Talent Programme) in State Key Laboratory of Internet of Things for Smart City, University of Macau (UM) (Aug. 2023 - Present)
+* Research Assistant Professor in Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST) (Feb. 2025 - Present)
+* UM Postdoctoral Fellow (funded by UM Talent Programme) in State Key Laboratory of Internet of Things for Smart City, University of Macau (UM) (Aug. 2023 - Feb. 2025)
 * Research Assistant in State Key Laboratory of Internet of Things for Smart City, University of Macau (Apr. 2023 - Jul. 2023)
 
 # **Main research interest**
