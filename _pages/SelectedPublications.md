@@ -11,9 +11,9 @@ author_profile: true
 
 ## **Overview**
 
-[1]  [J. Guo, C.-K. Wen, S. Jin*, and G. Y. Li, “Overview of Deep Learning-Based CSI Feedback in Massive MIMO Systems,” IEEE Trans. Commun., vol. 70, no. 12, pp. 8017–8045, Dec. 2022.](https://ieeexplore.ieee.org/document/9931713) (This paper gives a comprehensive overview of state-of-the-art research on deep learning-based CSI feedback.)
+[1]  [J. Guo, C.-K. Wen, S. Jin*, and G. Y. Li, “Overview of Deep Learning-Based CSI Feedback in Massive MIMO Systems,” IEEE Trans. Commun., vol. 70, no. 12, pp. 8017–8045, Dec. 2022.](https://ieeexplore.ieee.org/document/9931713) (This paper gives a comprehensive overview of state-of-the-art research on deep learning-based CSI feedback.)  **ESI highly cited paper**
 
-[2]  [J. Guo, C.-K. Wen, S. Jin*, and X. Li*, “AI for CSI feedback enhancement in 5G-Advanced,” IEEE Wireless Commun.,  vol. 31, no. 3, pp. 169–176, Jun. 2024.](https://ieeexplore.ieee.org/document/9970357) (This paper gives a comprehensive overview of the recent work about AI-based CSI feedback in 3GPP standardization.)
+[2]  [J. Guo, C.-K. Wen, S. Jin*, and X. Li*, “AI for CSI feedback enhancement in 5G-Advanced,” IEEE Wireless Commun.,  vol. 31, no. 3, pp. 169–176, Jun. 2024.](https://ieeexplore.ieee.org/document/9970357) (This paper gives a comprehensive overview of the recent work about AI-based CSI feedback in 3GPP standardization.) **ESI highly cited paper**
 
 [3] [Q. Xue, J. Guo*, B. Zhou, Y. Xu, Z. Li and S. Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” IEEE Vehicular Technology Magazine,  Early access, 2024.](https://ieeexplore.ieee.org/document/10627924) (This paper gives a comprehensive overview of the recent work about AI-based beam management in 3GPP standardization.)
 
@@ -35,7 +35,7 @@ author_profile: true
 [3] [J. Guo, C.-K. Wen, M. Chen, and S. Jin*, “Environment knowledge-aided massive MIMO feedback codebook enhancement using artificial intelligence,” IEEE Trans. Commun., vol. 70, no. 7, pp. 4527–4542, Jul. 2022.](https://ieeexplore.ieee.org/document/9789120) (This paper introduces an one-sided AI-based CSI feedback with no requirements in changing the current feedback standard.)
 
 
-[4] [J. Guo, C.-K. Wen, S. Jin*, and G. Y. Li, “Convolutional Neural Network-Based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis,” IEEE Trans. Wireless Commun., vol. 19, no. 4, pp. 2827-2840, Apr. 2020.](https://ieeexplore.ieee.org/document/8972904) (This paper introduces a novel quantization framework and two variable-rate feedback approaches.)
+[4] [J. Guo, C.-K. Wen, S. Jin*, and G. Y. Li, “Convolutional Neural Network-Based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis,” IEEE Trans. Wireless Commun., vol. 19, no. 4, pp. 2827-2840, Apr. 2020.](https://ieeexplore.ieee.org/document/8972904) (This paper introduces a novel quantization framework and two variable-rate feedback approaches.) **ESI highly cited paper**
 
 
 ### Introducing correlations to AI-based CSI feedback
@@ -49,7 +49,7 @@ author_profile: true
 
 [1] [J. Guo, C. -K. Wen and S. Jin*, "Deep Learning-Based CSI Feedback for Beamforming in Single- and Multi-Cell Massive MIMO Systems," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 7, pp. 1872-1884, July 2021.](https://ieeexplore.ieee.org/document/9279228) (This paper proposes a DL-based CSI feedback framework for beamforming design, called CsiFBnet. The key idea of the CsiFBnet is to maximize the beamforming performance gain rather than the feedback accuracy. )
 
-[2] [J. Guo, T. Chen, S. Jin*, G. Y. Li, X. Wang, and X. Hou “Deep learning for joint channel estimation and feedback in massive MIMO systems,” Digital Communications and Networks, vol. 10, no. 1, pp. 83-93, Jan. 2024.](https://www.sciencedirect.com/science/article/pii/S235286482300024X) (This paper proposes a deep learning based joint channel estimation and feedback framework, which comprehensively realizes the estimation, compression, and reconstruction of downlink channels in FDD massive MIMO systems.)
+[2] [J. Guo, T. Chen, S. Jin*, G. Y. Li, X. Wang, and X. Hou “Deep learning for joint channel estimation and feedback in massive MIMO systems,” Digital Communications and Networks, vol. 10, no. 1, pp. 83-93, Jan. 2024.](https://www.sciencedirect.com/science/article/pii/S235286482300024X) (This paper proposes a deep learning based joint channel estimation and feedback framework, which comprehensively realizes the estimation, compression, and reconstruction of downlink channels in FDD massive MIMO systems.)  **ESI highly cited paper**
 
 ### RIS
 
