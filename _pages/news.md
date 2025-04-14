@@ -12,6 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+We have uploaded our recent work about Learngene in signal detection (“[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)”  to arXiv. (2025-03-21)
+
+
 I have jointed the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST), as a Research Assistant Professor . (2025-02)
 
 We have uploaded our recent work about Large AI Model in CSI feedback(“[Prompt-Enabled Large AI Models for CSI Feedback](https://arxiv.org/abs/2501.10629)” and “[Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback](https://arxiv.org/abs/2501.10630)”)  to arXiv. (2025-01-18)
