@@ -16,7 +16,7 @@ We have uploaded our recent work about Learngene in signal detection “[Efficie
 
 Invited by Dr. [Shuangfeng Han](https://ieeexplore.ieee.org/author/37085347882), I gave a talk, "Intelligent air interface for 6G---Basics and representative examples", in China Mobile Research Institute. (2024-3-14)
 
-I have jointed the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST), as a Research Assistant Professor. 
+I have jointed the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST), as a [Research Assistant Professor](https://ece.hkust.edu.hk/eejiajiaguo). 
 I’m delighted to collaborate with Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). (2025-02)
 
 We have uploaded our recent work about Large AI Model in CSI feedback(“[Prompt-Enabled Large AI Models for CSI Feedback](https://arxiv.org/abs/2501.10629)” and “[Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback](https://arxiv.org/abs/2501.10630)”)  to arXiv. (2025-01-18)
