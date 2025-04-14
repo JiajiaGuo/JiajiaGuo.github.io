@@ -7,6 +7,8 @@ redirect_from:
   - /Talks.html
 ---
 
+- “Intelligent air interface for 6G—Basics and representative examples”, in China Mobile Research Institute. (2025-3-14)
+  
 - “Intelligent Channel State Information Feedback in Massive MIMO”, with Prof. Shi Jin in Excellent Doctoral Forum of Chinese Institute of Electronics. (2024-11-23)
 
 - "AI for CSI Prediction in 5G-Advanced and Beyond" at the [2024 Global Scientists Blue Ocean Forum](https://www.china-cic.cn/Detail/24/5582/5582), organized by China Institute of Communications, Aug. 17, 2024.
