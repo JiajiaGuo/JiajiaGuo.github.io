@@ -14,6 +14,7 @@ redirect_from:
 
 We have uploaded our recent work about Learngene in signal detection (“[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)”  to arXiv.  Good luck to Jinya. (2025-03-21)
 
+Invited by Dr. [Shuangfeng Han](https://ieeexplore.ieee.org/author/37085347882), I gave a talk, "Intelligent air interface for 6G---Basics and representative examples", in China Mobile Research Institute. (2024-3-14)
 
 I have jointed the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST), as a Research Assistant Professor. (2025-02)
 
