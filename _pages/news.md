@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+Our paper “AI for CSI Prediction in 5G-Advanced and Beyond” has been accepted by *China Communications*. Congratulations to Chengyong Jiang, his third journal paper (2025-4-4)
+
 We have uploaded our recent work about Learngene in signal detection “[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)”  to arXiv.  Good luck to Jinya. (2025-03-21)
 
 Invited by Dr. [Shuangfeng Han](https://ieeexplore.ieee.org/author/37085347882), I gave a talk, "Intelligent air interface for 6G---Basics and representative examples", in China Mobile Research Institute. (2024-3-14)
