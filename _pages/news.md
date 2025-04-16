@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-We have uploaded our recent work about Learngene in signal detection “[AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning](https://arxiv.org/abs/2504.10798)”  to arXiv.  Good luck to Jiayi. (2025-04-16)
+We have uploaded our recent work about environment-adaptive CSI feedback “[AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning](https://arxiv.org/abs/2504.10798)”  to arXiv.  Good luck to Jiayi. (2025-04-16)
 
 Our paper “AI for CSI Prediction in 5G-Advanced and Beyond” has been accepted by *China Communications*. Congratulations to Chengyong Jiang, his third journal paper (2025-4-14)
 
