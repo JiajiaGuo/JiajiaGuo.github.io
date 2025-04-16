@@ -12,7 +12,9 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “AI for CSI Prediction in 5G-Advanced and Beyond” has been accepted by *China Communications*. Congratulations to Chengyong Jiang, his third journal paper (2025-4-4)
+We have uploaded our recent work about Learngene in signal detection “[AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning](https://arxiv.org/abs/2504.10798)”  to arXiv.  Good luck to Jiayi. (2025-04-16)
+
+Our paper “AI for CSI Prediction in 5G-Advanced and Beyond” has been accepted by *China Communications*. Congratulations to Chengyong Jiang, his third journal paper (2025-4-14)
 
 We have uploaded our recent work about Learngene in signal detection “[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)”  to arXiv.  Good luck to Jinya. (2025-03-21)
 
