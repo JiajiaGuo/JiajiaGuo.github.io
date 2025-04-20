@@ -26,7 +26,7 @@ I’m delighted to collaborate with Prof. [Jun Zhang](https://eejzhang.people.us
 We have uploaded our recent work about Large AI Model in CSI feedback(“[Prompt-Enabled Large AI Models for CSI Feedback](https://arxiv.org/abs/2501.10629)” and “[Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback](https://arxiv.org/abs/2501.10630)”)  to arXiv. (2025-01-18)
 
 
-Our paper “FPNet: Joint AI for CSI Feedback and High-Accuracy Positioning in Wi-Fi Systems'” has been accepted by *IEEE ICC*.  Congratulations to Mr. Ran Tao (First-year Master student) (2025-1-18)
+Our paper “FPNet: Joint AI for CSI Feedback and High-Accuracy Positioning in Wi-Fi Systems” has been accepted by *IEEE ICC*.  Congratulations to Mr. Ran Tao (First-year Master student) (2025-1-18)
 
 
 Our paper “[Deep Learning-based CSI Feedback for RIS-assisted Multi-user Systems](https://ieeexplore.ieee.org/document/10818491)” has been accepted by *IEEE Transactions on Communications*. (2024-12-23)
