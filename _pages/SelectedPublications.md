@@ -7,7 +7,7 @@ author_profile: true
 
  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=WN7-Mz4AAAAJ)
 
- Note: please feel free to email me for support. I am currently organizing the code from my prior work and will release the source code upon completion, under the condition that the intellectual property rights of my industry collaborators are protected.
+ Note: If you are interested in my paper and wish to reproduce my work, please feel free to email me for support. I am currently organizing the code from my prior work and will release the source code upon completion, under the condition that the intellectual property rights of my industry collaborators are protected.
 
 ## **Overview**
 
