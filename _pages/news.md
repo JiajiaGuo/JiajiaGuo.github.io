@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+Our paper "Semantic-aware Digital Twin for AI-based CSI Acquisition" has been accepted by *Semantic-aware Digital Twin for AI-based CSI Acquisition*.
+
 We have uploaded our recent work about environment-adaptive CSI feedback “[AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning](https://arxiv.org/abs/2504.10798)”  to arXiv.  Good luck to Jiayi. (2025-04-16)
 
 Our paper “[AI for CSI Prediction in 5G-Advanced and Beyond](https://arxiv.org/abs/2504.12571)” has been accepted by *China Communications*. Congratulations to Chengyong Jiang, his third journal paper (2025-4-14)
