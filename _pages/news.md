@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper "Semantic-aware Digital Twin for AI-based CSI Acquisition" has been accepted by *Semantic-aware Digital Twin for AI-based CSI Acquisition*.
+Our paper "Semantic-aware Digital Twin for AI-based CSI Acquisition" has been accepted by *IEEE Communications Standards Magazine*.
 
 We have uploaded our recent work about environment-adaptive CSI feedback “[AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning](https://arxiv.org/abs/2504.10798)”  to arXiv.  Good luck to Jiayi. (2025-04-16)
 
