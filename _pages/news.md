@@ -14,7 +14,7 @@ redirect_from:
 
 Our paper “[Limited Feedback in RIS-Assisted Wireless Communications: Use Cases, Challenges, and Future Directions](https://arxiv.org/abs/2506.22903)” has been accepted by *China Communications*. Congratulations to Dr. Chen (2025-06)
 
-Our paper "Semantic-aware Digital Twin for AI-based CSI Acquisition" has been accepted by *IEEE Communications Standards Magazine*.
+Our paper "[Semantic-aware Digital Twin for AI-based CSI Acquisition](https://ieeexplore.ieee.org/document/11063290)" has been accepted by *IEEE Communications Standards Magazine*.
 
 We have uploaded our recent work about environment-adaptive CSI feedback “[AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning](https://arxiv.org/abs/2504.10798)”  to arXiv.  Good luck to Jiayi. (2025-04-16)
 
