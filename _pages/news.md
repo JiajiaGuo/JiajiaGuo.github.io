@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+I'm invited to the National Conditions Study Program for Young Scientists from Hong Kong, Macao, and Taiwan, jointly organized by CAST and NSFC. (2025-07-20)
+
 Our paper “[Limited Feedback in RIS-Assisted Wireless Communications: Use Cases, Challenges, and Future Directions](https://arxiv.org/abs/2506.22903)” has been accepted by *China Communications*. Congratulations to Dr. Chen (2025-06)
 
 Our paper "[Semantic-aware Digital Twin for AI-based CSI Acquisition](https://ieeexplore.ieee.org/document/11063290)" has been accepted by *IEEE Communications Standards Magazine*.
