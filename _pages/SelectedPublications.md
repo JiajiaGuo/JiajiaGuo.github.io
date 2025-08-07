@@ -7,7 +7,7 @@ author_profile: true
 
  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=WN7-Mz4AAAAJ)
 
- Note: If you are interested in my paper and wish to reproduce my work, please feel free to email me for support. I am currently organizing the code from my prior work and will release the source code upon completion, under the condition that the intellectual property rights of my industry collaborators are protected.
+ Note: If you are interested in my paper and wish to reproduce my work, please feel free to email me for support. 
 
 ## **Overview**
 
@@ -61,6 +61,6 @@ author_profile: true
 
 [1] [J. Guo, C. -K. Wen and S. Jin*, "Eliminating CSI Feedback Overhead via Deep Learning-Based Data Hiding," in IEEE Journal on Selected Areas in Communications, vol. 40, no. 8, pp. 2267-2281, Aug. 2022.](https://ieeexplore.ieee.org/document/9791341)(The key idea of this paper is to hide/superimpose CSI in transmitted messages (e.g., images) with no transmission resource occupation and few effects on message semantics.)
 
-[2] J. Guo, C. -K. Wen, X. Li, and S. Jin*, "Deep Learning-based Position-domain Channel Extrapolation for Cell-Free Massive MIMO," Submitted to IEEE Transactions on Wireless Communications (Minor Revision), 2025([Source code](https://drive.google.com/drive/folders/1DguJM5GtRLl2m8apG2FFenfqKg7I_veh?usp=sharing)).
+[2] [J. Guo, C. -K. Wen, X. Li, and S. Jin*, "Deep Learning-based Position-domain Channel Extrapolation for Cell-Free Massive MIMO," in IEEE Transactions on Wireless Communications, 2025.](https://ieeexplore.ieee.org/document/11119141)
 
 
