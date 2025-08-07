@@ -12,6 +12,10 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+
+Our paper “[Deep Learning-based Position-domain Channel Extrapolation for Cell-Free Massive MIMO](https://ieeexplore.ieee.org/document/11119141)” has been accepted by *IEEE Transactions on Wireless Communications *. (2025-07-23)
+
+
 I'm invited to the National Conditions Study Program for Young Scientists from Hong Kong, Macao, and Taiwan, jointly organized by CAST and NSFC. (2025-07-20)
 
 Our paper “[Limited Feedback in RIS-Assisted Wireless Communications: Use Cases, Challenges, and Future Directions](https://arxiv.org/abs/2506.22903)” has been accepted by *China Communications*. Congratulations to Dr. Chen (2025-06)
