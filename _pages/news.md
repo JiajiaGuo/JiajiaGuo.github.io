@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)" has been accepted by *IEEE Wireless Communications Letters*. Congratulations to Jinya Zhang (First-year Phd student). Her second journal paper (2025-09-08)
+Our paper “[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)" has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Jinya Zhang (First-year Phd student). Her second journal paper (2025-09-08)
 
 We have uploaded our recent overview about large AI model “[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)”  to arXiv. (2025-08-04)
 
