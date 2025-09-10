@@ -19,7 +19,7 @@ I has been selected as an academic editor of [Discover Applied Sciences](https:/
 We have uploaded our recent overview about large AI model “[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)”  to arXiv. (2025-08-04)
 
 
-Our four papers has been accepted by *IEEE Globecom 2025*. All submitted paers have been accepted.  (2025-07-31)
+Our four papers has been accepted by *IEEE Globecom 2025*. All submitted paers have been accepted.  Congratulations to Jinya Zhang, Yiming Cui, and Jiayi Liu.  (2025-07-31)
 
 Our paper “[Deep Learning-based Position-domain Channel Extrapolation for Cell-Free Massive MIMO](https://ieeexplore.ieee.org/document/11119141)” has been accepted by *IEEE Transactions on Wireless Communications*. (2025-07-23)
 
