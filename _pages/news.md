@@ -12,7 +12,7 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “End-to-End Beamforming-Oriented CSI Acquisition Framework for RIS-Assisted Networks" has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Yiming CUI. His 6th journal paper (2025-09-19)
+Our paper “[End-to-End Beamforming-Oriented CSI Acquisition Framework for RIS-Assisted Networks](https://ieeexplore.ieee.org/document/11196036)" has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Yiming CUI. His 6th journal paper (2025-09-19)
 
 Our paper “[Efficient Deployment of Deep MIMO Detection Using Learngene](https://arxiv.org/abs/2503.16931)" has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Jinya Zhang (First-year Phd student). Her second journal paper (2025-09-08)
 
