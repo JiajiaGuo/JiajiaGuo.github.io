@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+My paper “[Prompt-Enabled Large AI Models for CSI Feedback](https://arxiv.org/abs/2501.10629)" has been accepted by IEEE Journal on Selected Areas in Communications. (2025-12-05)
+
 Our paper “Uncertainty Estimation-BasedPerformance Monitoring for Deep Learning-Based CSl Prediction," has been accepted by *IEEE Communications Letter*. Congratulations to Chengyong Jiang. His 4th journal paper (2025-11-30)
 
 Our paper “[End-to-End Beamforming-Oriented CSI Acquisition Framework for RIS-Assisted Networks](https://ieeexplore.ieee.org/document/11196036)" has been accepted by *IEEE Transactions on Wireless Communications*. Congratulations to Yiming CUI. His 6th journal paper (2025-09-19)
