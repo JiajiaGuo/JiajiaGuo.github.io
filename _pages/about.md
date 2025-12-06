@@ -14,7 +14,7 @@ I received the B.S. degree from the Nanjing University of Science and Technology
 
 Should you have any inquiries, please don't hesitate to send an email to [jiajiaguo@seu.edu.cn](mailto:jiajiaguo@seu.edu.cn).
  
-A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by [Jiajia Guo et al](https://arxiv.org/abs/2508.02314), can be found at https://github.com/AI4Wireless/LAM4PHY_6G/.
+A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by [Jiajia Guo et al](https://arxiv.org/abs/2508.02314), can be found at [https://github.com/AI4Wireless/LAM4PHY_6G/](https://github.com/AI4Wireless/LAM4PHY_6G/).
 
 # **Main research interest**
 
