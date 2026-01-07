@@ -12,6 +12,8 @@ redirect_from:
 
 # **News**  (Since 2024)
 
+Our paper “[Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136)" has been accepted by *IEEE Transactions on Communications*. Congratulations to Kehui. His first journal paper (2026-01-07)
+
 My paper “[Prompt-Enabled Large AI Models for CSI Feedback](https://ieeexplore.ieee.org/document/11299518)" has been accepted by IEEE Journal on Selected Areas in Communications. (2025-12-05)
 
 Our paper “[Uncertainty Estimation-BasedPerformance Monitoring for Deep Learning-Based CSl Prediction](https://ieeexplore.ieee.org/document/11278093)," has been accepted by *IEEE Communications Letter*. Congratulations to Chengyong Jiang. His 4th journal paper (2025-11-30)
