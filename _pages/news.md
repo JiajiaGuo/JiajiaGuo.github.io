@@ -14,7 +14,7 @@ redirect_from:
 I has been selected as an academic editor of [
 IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board). (2026-01-11).
 
-Our paper “[Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136)" has been accepted by *IEEE Transactions on Communications*. Congratulations to Kehui. His first journal paper (2026-01-07)
+Our paper “[Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://ieeexplore.ieee.org/document/11358948)" has been accepted by *IEEE Transactions on Communications*. Congratulations to Kehui. His first journal paper (2026-01-07)
 
 My paper “[Prompt-Enabled Large AI Models for CSI Feedback](https://ieeexplore.ieee.org/document/11299518)" has been accepted by IEEE Journal on Selected Areas in Communications. (2025-12-05)
 
