@@ -16,7 +16,7 @@ I have authored or co-authored more than **90 research papers**, including more 
 
 My research achievements have been recognized by several awards and honors, including the **First Prize of the Natural Science Award of the Chinese Institute of Electronics**, the **Best Ph.D. Thesis Award of the Chinese Institute of Electronics**, the **Best Ph.D. Thesis Award of Jiangsu Province**, and the selection of our research on *AI Theory and Technology for Air Interface* as one of the **2022 Annual Top Ten Technological Advancements in Information and Communication in China**.
 
-Should you have any inquiries or be interested in research collaboration, please feel free to contact me at [jiajiaguo@seu.edu.cn](mailto:jiajiaguo@seu.edu.cn).
+Should you have any inquiries or be interested in research collaboration, please feel free to contact me at [eejiajiaguo@ust.hk](mailto:eejiajiaguo@ust.hk).
 
 
 # **Main Research Interests**
