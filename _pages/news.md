@@ -18,8 +18,6 @@ Our paper “Large and Small Model Collaboration for Air Interface” has been a
 
 Our paper “AI-Driven Subcarrier-Level CQI Feedback” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Chengyong Jiang! (2026-08)
 
-Our paper “Learning to Sense the Environment: Adaptive CSI Feedback with Scene Graph Priors” has been accepted by IEEE Journal of Selected Topics in Signal Processing. Congratulations to Jiayi Liu! (2026-08)
-
 Our paper “Semantic Communications with World Models” has been published in IEEE Transactions on Communications. (2026-08)
 
 Our paper “MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications” has been published in IEEE Transactions on Wireless Communications. Congratulations to Tianyue Zheng! (2026-07-08)
