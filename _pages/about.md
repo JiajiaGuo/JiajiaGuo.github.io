@@ -7,47 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.S. degree from Nanjing University of Science and Technology in 2016, the M.S. degree from the University of Science and Technology of China in 2019, and the Ph.D. degree in Information and Communications Engineering from Southeast University in 2023, under the supervision of [Prof. Shi Jin](https://radio.seu.edu.cn/2018/0423/c19937a213534/page.htm).
+I received the B.Eng. degree in Optoelectronic Information Engineering from Nanjing University of Science and Technology in 2016, the M.S. degree in Biomedical Engineering from the University of Science and Technology of China in 2019, and the Ph.D. degree in Information and Communication Engineering from Southeast University in 2023, under the supervision of [Prof. Shi Jin](https://radio.seu.edu.cn/2018/0423/c19937a213534/page.htm).
 
-I am currently a Research Assistant Professor with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). My research focuses on **AI-native wireless communications**, with particular interests in **CSI acquisition and feedback, massive/XL-MIMO, large AI models for wireless communications, integrated sensing and communication (ISAC), and AI-enabled radio environment representation**. I am also actively involved in **3GPP standardization**, particularly in RAN1 and RAN4.
+I am currently a **Research Assistant Professor** with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). Before joining HKUST, I was a Postdoctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau.
 
-I have authored or co-authored more than 80 research papers, including over 30 papers in IEEE Transactions journals. My research has received more than 3,000 citations according to Google Scholar. My research achievements were selected as one of the **Top 10 Science and Technology Progresses in the Information and Communication Field in China in 2022**. I was also a recipient of the **First Prize of the Natural Science Award of the Chinese Institute of Electronics**, the **2023 Chinese Institute of Electronics Best Doctoral Thesis Award**, and the **IEEE ICC Best Paper Award**.
+My research centers on **AI-native wireless communications**. I have built a long-standing research foundation in **channel intelligence for advanced MIMO**, spanning CSI acquisition, feedback, estimation, prediction, extrapolation, beamforming-oriented learning, and deployment. My current research focuses on two complementary directions: **efficient, adaptive and trustworthy wireless AI**, and **wireless foundation models and environment intelligence**. Across these directions, I connect wireless-domain modeling, artificial intelligence, practical deployment, and **3GPP standardization**.
+
+I have authored or co-authored more than **90 research papers**, including more than 20 first-author journal papers. My research has received more than **3,300 citations** with an **h-index of 27** according to Google Scholar. I have also served as the contact person for more than **20 3GPP contributions** submitted to 3GPP RAN, RAN1, and RAN4.
+
+My research achievements have been recognized by several awards and honors, including the **First Prize of the Natural Science Award of the Chinese Institute of Electronics**, the **Best Ph.D. Thesis Award of the Chinese Institute of Electronics**, the **Best Ph.D. Thesis Award of Jiangsu Province**, and the selection of our research on *AI Theory and Technology for Air Interface* as one of the **2022 Annual Top Ten Technological Advancements in Information and Communication in China**.
 
 Should you have any inquiries or be interested in research collaboration, please feel free to contact me at [jiajiaguo@seu.edu.cn](mailto:jiajiaguo@seu.edu.cn).
 
 
 # **Main Research Interests**
 
-- **AI-native Wireless Communications and Air Interface**  
-  AI-native physical-layer design, intelligent transceivers, AI-enabled air-interface design, and knowledge-driven wireless communications.
+- **Channel Intelligence for Advanced MIMO**  
+  CSI acquisition and feedback, channel estimation and prediction, channel extrapolation, beamforming-oriented learning, RIS/cell-free MIMO, and signaling-efficient channel knowledge.
 
-- **CSI Acquisition and Feedback**  
-  Deep learning-based CSI feedback, joint channel estimation and feedback, low-overhead CSI acquisition, massive MIMO, and extremely large-scale MIMO (XL-MIMO).
+- **Efficient, Adaptive and Trustworthy Wireless AI**  
+  Lightweight AI, knowledge distillation, online and federated adaptation, Learngene/Learnware, large-small model collaboration, performance monitoring, and deployment-efficient wireless AI.
 
-- **Large AI Models for Wireless Communications**  
-  Large AI models (LAMs), wireless foundation models, large-to-small model knowledge transfer, model derivation, knowledge distillation, and deployment-oriented wireless AI.
+- **Wireless Foundation Models and Environment Intelligence**  
+  Environment knowledge, semantic digital twins, multimodal side information, large AI models and wireless foundation models, large-small model collaboration, reusable wireless knowledge across tasks and scenarios, wireless radiance fields, and 3D Gaussian Splatting for wireless communications.
 
-- **ISAC and Wireless Environment Intelligence**  
-  Integrated sensing and communication, wireless localization, Wi-Fi sensing, radio environment representation, channel knowledge maps, wireless radiance fields, and 3D Gaussian Splatting for wireless communications.
-
-- **3GPP Standardization**  
-  3GPP RAN1 and RAN4, with particular interests in MIMO, CSI acquisition and feedback, AI/ML-enabled air interface, and 6G-related standardization.
+- **3GPP Standardization & Technology Translation**  
+  3GPP RAN1/RAN4, AI/ML for the air interface, CSI acquisition and compression, data collection and monitoring, model pairing and lifecycle management, testing and interoperability, superimposed pilots, and 6G-related standardization.
 
 
-# **Open-Source Research Resources**
+# **Research Paper Collections**
 
-### Large AI Models for Wireless Physical Layer
+## **Large AI Models for Wireless Physical Layer**
 
-A collection of papers on **Large AI Models (LAMs) for wireless physical-layer applications**, extended from our overview paper by [Jiajia Guo et al.](https://arxiv.org/abs/2508.02314):
+A curated collection of papers on **Large AI Models (LAMs) for wireless physical-layer applications**, extended from our overview paper:
 
-[**LAM4PHY_6G**](https://github.com/AI4Wireless/LAM4PHY_6G/)
+**J. Guo, Y. Cui, S. Jin, and J. Zhang, "Large AI Models for Wireless Physical Layer," IEEE Communications Magazine, 2026.**
+
+- Paper: [Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)
+- Paper collection: [AI4Wireless/LAM4PHY_6G](https://github.com/AI4Wireless/LAM4PHY_6G/)
 
 
-### 3D Gaussian Splatting for Wireless Communications
+## **3D Gaussian Splatting for Wireless Communications**
 
-A collection of recent studies on **3D Gaussian Splatting (3DGS) for wireless communications**, including wireless radiance fields, spatial channel representation, channel reconstruction and prediction, and radio environment modeling:
+A curated collection of papers on **3D Gaussian Splatting (3DGS) for wireless communications**, covering wireless radiance fields, radio environment reconstruction, channel representation, environment-aware communications, and related optical-RF spatial intelligence.
 
-[**3DGS_for_Wireless**](https://github.com/AI4Wireless/3DGS_for_Wireless)
+- Paper collection: [AI4Wireless/3DGS_for_Wireless](https://github.com/AI4Wireless/3DGS_for_Wireless)
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WNWfIdvOBQZwORV1xHGan5HnZzQ3EdsNZVF-CuDHJiI&cl=ffffff&w=a"></script>
