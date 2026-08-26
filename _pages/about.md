@@ -53,9 +53,4 @@ A curated collection of papers on **3D Gaussian Splatting (3DGS) for wireless co
 - Paper collection: [AI4Wireless/3DGS_for_Wireless](https://github.com/AI4Wireless/3DGS_for_Wireless)
 
 
-# **Visitors**
 
-<div style="text-align: center; margin-top: 20px;">
-<script type="text/javascript" id="clustrmaps"
-src="https://clustrmaps.com/map_v2.js?d=WNWfIdvOBQZwORV1xHGan5HnZzQ3EdsNZVF-CuDHJiI&cl=ffffff&w=a"></script>
-</div>
