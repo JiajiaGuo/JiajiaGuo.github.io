@@ -11,6 +11,24 @@ redirect_from:
  
 
 # **News**  (Since 2024)
+
+Our paper “Learnware for CSI Feedback: Scene-specific Small Models Can Do Big” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Xiangyi Li! (2026-08)
+
+Our paper “Large and Small Model Collaboration for Air Interface” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Yiming Cui! (2026-08)
+
+Our paper “AI-Driven Subcarrier-Level CQI Feedback” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Chengyong Jiang! (2026-08)
+
+Our paper “Learning to Sense the Environment: Adaptive CSI Feedback with Scene Graph Priors” has been accepted by IEEE Journal of Selected Topics in Signal Processing. Congratulations to Jiayi Liu! (2026-08)
+
+Our paper “Semantic Communications with World Models” has been published in IEEE Transactions on Communications. (2026-08)
+
+Our paper “MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications” has been published in IEEE Transactions on Wireless Communications. Congratulations to Tianyue Zheng! (2026-07-08)
+
+Our work “Foundation Model Theory and Methods for Wireless Transmission” was selected as a nominated advance in the 2025 Annual Top Ten Advances in Information and Communication (Basic Research category). (2026-05-17)
+
+My paper “Large AI Models for Wireless Physical Layer” has been published in IEEE Communications Magazine, vol. 64, no. 5, pp. 148–155. (2026-05)
+I has been selected as an academic editor of IEEE Wireless Communications Letter. (2026-03).
+
 I has been selected as an academic editor of [
 IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board). (2026-01-11).
 
