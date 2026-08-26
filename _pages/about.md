@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in Optoelectronic Information Engineering from Nanjing University of Science and Technology in 2016, the M.S. degree in Biomedical Engineering from the University of Science and Technology of China in 2019, and the Ph.D. degree in Information and Communication Engineering from Southeast University in 2023.
 
-I am currently a **Research Assistant Professor** with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). Before joining HKUST, I was a Postdoctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau.
+I am currently a **Research Assistant Professor** with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). Before joining HKUST, I was a Postdoctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. I received the B.Eng. degree in Optoelectronic Information Engineering from Nanjing University of Science and Technology in 2016, the M.S. degree in Biomedical Engineering from the University of Science and Technology of China in 2019, and the Ph.D. degree in Information and Communication Engineering from Southeast University in 2023.
 
 My research centers on **AI-native wireless communications**. I have built a long-standing research foundation in **channel intelligence for advanced MIMO**, spanning CSI acquisition, feedback, estimation, prediction, extrapolation, beamforming-oriented learning, and deployment. My current research focuses on two complementary directions: **efficient, adaptive and trustworthy wireless AI**, and **wireless foundation models and environment intelligence**. Across these directions, I connect wireless-domain modeling, artificial intelligence, practical deployment, and **3GPP standardization**.
 
