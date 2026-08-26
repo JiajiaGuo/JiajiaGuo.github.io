@@ -48,7 +48,7 @@ and future research directions.
 **Invited Paper; ESI Highly Cited Paper**
 
 
-[4] [Q. Xue, J. Guo, B. Zhou, Y. Xu, Z. Li, and S. Ma,
+[4] [Q. Xue, J. Guo*, B. Zhou, Y. Xu, Z. Li, and S. Ma*,
 “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,”
 IEEE Vehicular Technology Magazine, vol. 19, no. 4,
 pp. 64–72, Dec. 2024.](https://ieeexplore.ieee.org/document/10627924)
