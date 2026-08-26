@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in Optoelectronic Information Engineering from Nanjing University of Science and Technology in 2016, the M.S. degree in Biomedical Engineering from the University of Science and Technology of China in 2019, and the Ph.D. degree in Information and Communication Engineering from Southeast University in 2023, under the supervision of [Prof. Shi Jin](https://radio.seu.edu.cn/2018/0423/c19937a213534/page.htm).
+I received the B.Eng. degree in Optoelectronic Information Engineering from Nanjing University of Science and Technology in 2016, the M.S. degree in Biomedical Engineering from the University of Science and Technology of China in 2019, and the Ph.D. degree in Information and Communication Engineering from Southeast University in 2023.
 
 I am currently a **Research Assistant Professor** with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). Before joining HKUST, I was a Postdoctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau.
 
