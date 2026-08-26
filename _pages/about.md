@@ -40,9 +40,7 @@ Should you have any inquiries or be interested in research collaboration, please
 
 A curated collection of papers on **Large AI Models (LAMs) for wireless physical-layer applications**, extended from our overview paper:
 
-**J. Guo, Y. Cui, S. Jin, and J. Zhang, "Large AI Models for Wireless Physical Layer," IEEE Communications Magazine, 2026.**
-
-- Paper: [Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)
+- Paper: [Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327)
 - Paper collection: [AI4Wireless/LAM4PHY_6G](https://github.com/AI4Wireless/LAM4PHY_6G/)
 
 
