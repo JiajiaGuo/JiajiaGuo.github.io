@@ -35,7 +35,8 @@ Should you have any inquiries or be interested in research collaboration, please
 
 # **Tutorial**
 
-## **[Spatial Intelligence for Wireless Communications and Sensing: Methods to Applications](https://ym-max-bot.github.io/spatial-intelligence-tutorial/)** with Jun Zhang, Yumeng Zhang, and Chenghong Bian.  (3 hours) IEEE/CIC [ICCC](https://iccc2026.ieee-iccc.org/tutorials), Wuhan, China, Aug. 2026 and IEEE [GLOBECOM](https://globecom2026.ieee-globecom.org/events/tut-17-spatial-intelligence-wireless-communications-and-sensing-methods-applications), Macau, Dec. 2026..
+## **[Spatial Intelligence for Wireless Communications and Sensing: Methods to Applications](https://ym-max-bot.github.io/spatial-intelligence-tutorial/)** 
+with Jun Zhang, Yumeng Zhang, and Chenghong Bian.  (3 hours) IEEE/CIC [ICCC](https://iccc2026.ieee-iccc.org/tutorials), Wuhan, China, Aug. 2026 and IEEE [GLOBECOM](https://globecom2026.ieee-globecom.org/events/tut-17-spatial-intelligence-wireless-communications-and-sensing-methods-applications), Macau, Dec. 2026..
 
 
 # **Research Paper Collections**
