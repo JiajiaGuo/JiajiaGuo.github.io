@@ -12,20 +12,27 @@ redirect_from:
 
 # **News**  (Since 2024)
 
-Our paper “Learnware for CSI Feedback: Scene-specific Small Models Can Do Big” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Xiangyi Li! (2026-08)
+I has been selected as an editor of [IEEE Communications Standards Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine). (2026-10).
 
-Our paper “Large and Small Model Collaboration for Air Interface” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Yiming Cui! (2026-08)
+Our paper “[Leveraging Pre-Trained Language Models for Massive MIMO CSI Feedback](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175289012.28506097/v1)” has been accepted by IEEE Transactions on Mobile Computing. Congratulations to Yiming Cui! (2026-09)
 
-Our paper “AI-Driven Subcarrier-Level CQI Feedback” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Chengyong Jiang! (2026-08)
+Our paper “[Learnware for CSI Feedback: Scene-specific Small Models Can Do Big](https://ieeexplore.ieee.org/document/11668998/)” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Xiangyi Li! (2026-08)
 
-Our paper “Semantic Communications with World Models” has been published in IEEE Transactions on Communications. (2026-08)
+Our paper “[Large and Small Model Collaboration for Air Interface](https://ieeexplore.ieee.org/document/11673037/)” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Yiming Cui! (2026-08)
 
-Our paper “MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications” has been published in IEEE Transactions on Wireless Communications. Congratulations to Tianyue Zheng! (2026-07-08)
+Our paper “[AI-Driven Subcarrier-Level CQI Feedback](https://ieeexplore.ieee.org/document/11667304/)” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Chengyong Jiang! (2026-08)
+
+Our paper “[AgentComm: Semantic Communication for Embodied Agents](https://ieeexplore.ieee.org/document/11677186)” has been published inIEEE Transactions on Cognitive Communications and Networking. (2026-08)
+
+Our paper “[Semantic Communications with World Models](https://ieeexplore.ieee.org/document/11612870/)” has been published in IEEE Transactions on Communications. (2026-08)
+
+Our paper “[MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications](https://ieeexplore.ieee.org/document/11600615/)” has been published in IEEE Transactions on Wireless Communications. Congratulations to Tianyue Zheng! (2026-07-08)
 
 Our work “Foundation Model Theory and Methods for Wireless Transmission” was selected as a nominated advance in the 2025 Annual Top Ten Advances in Information and Communication (Basic Research category). (2026-05-17)
 
-My paper “Large AI Models for Wireless Physical Layer” has been published in IEEE Communications Magazine, vol. 64, no. 5, pp. 148–155. (2026-05)
-I has been selected as an academic editor of IEEE Wireless Communications Letter. (2026-03).
+My paper “[Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327)” has been published in IEEE Communications Magazine, vol. 64, no. 5, pp. 148–155. (2026-05)
+
+I has been selected as an editor of IEEE Wireless Communications Letter. (2026-03).
 
 I has been selected as an academic editor of [
 IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board). (2026-01-11).
