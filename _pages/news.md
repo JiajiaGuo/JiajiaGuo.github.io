@@ -22,7 +22,7 @@ Our paper “[Large and Small Model Collaboration for Air Interface](https://iee
 
 Our paper “[AI-Driven Subcarrier-Level CQI Feedback](https://ieeexplore.ieee.org/document/11667304/)” has been accepted by IEEE Transactions on Wireless Communications. Congratulations to Chengyong Jiang! (2026-08)
 
-Our paper “[AgentComm: Semantic Communication for Embodied Agents](https://ieeexplore.ieee.org/document/11677186)” has been published inIEEE Transactions on Cognitive Communications and Networking. (2026-08)
+Our paper “[AgentComm: Semantic Communication for Embodied Agents](https://ieeexplore.ieee.org/document/11677186)” has been published in IEEE Transactions on Cognitive Communications and Networking. (2026-08)
 
 Our paper “[Semantic Communications with World Models](https://ieeexplore.ieee.org/document/11612870/)” has been published in IEEE Transactions on Communications. (2026-08)
 
